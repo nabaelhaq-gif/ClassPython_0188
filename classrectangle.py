@@ -16,4 +16,4 @@ rect = Rectangle(3, 2)
 
 print(rect)
 
-print
+print("Keliling:" , rect.calculate_circumference)
