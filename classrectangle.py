@@ -5,3 +5,6 @@ class Rectangle:
 
     def calculate_circumference(self):
         return self.length + self.length + self.width + self.width
+
+    def calculate_area(self):
+        return self.length * self.width
