@@ -8,3 +8,6 @@ class Rectangle:
 
     def calculate_area(self):
         return self.length * self.width
+
+    def __str__(self):
+        return "rectangle, " + str(self.length) + "cm long, and " + str(self.width) + "cm wide"
