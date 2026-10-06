@@ -17,3 +17,5 @@ rect = Rectangle(3, 2)
 print(rect)
 
 print("Keliling:" , rect.calculate_circumference)
+
+print
