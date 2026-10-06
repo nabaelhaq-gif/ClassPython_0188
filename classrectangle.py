@@ -13,3 +13,5 @@ class Rectangle:
         return "rectangle, " + str(self.length) + "cm long, and " + str(self.width) + "cm wide"
 
 rect = Rectangle(3, 2)
+
+print(rect)
