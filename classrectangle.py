@@ -16,6 +16,6 @@ rect = Rectangle(3, 2)
 
 print(rect)
 
-print("Keliling:" , rect.calculate_circumference)
+print("Keliling:" , rect.calculate_circumference())
 
-print
+print("Luas:" ,rect.calculate_area())
